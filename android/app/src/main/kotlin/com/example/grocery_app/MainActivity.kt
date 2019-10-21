@@ -1,4 +1,4 @@
-package ca.acadiau.bread_and_butter
+package com.example.grocery_app
 
 import android.os.Bundle
 
